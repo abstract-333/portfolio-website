@@ -1,6 +1,5 @@
-# cv_app
-
-A new Flutter project.
+# Portfolio Website
+Simple website made by flutter.
 
 ## Getting Started
 
